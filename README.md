@@ -16,9 +16,6 @@ Bu basit Python programı, bir TV kumandasını simüle eder. Kullanıcıya ses 
 
 ## Kullanım
 
-1. Python 3.5 veya üzeri bir sürüm yüklü olduğundan emin olun.
-2. Terminal veya komut istemcisini açın.
-3. `kumanda.py` dosyasını çalıştırın.
-4. Program size bir seçim menüsü sunacak. İstediğiniz işlemi seçmek için ilgili seçenek numarasını girin.
-5. Program seçiminizi işleyecek, sonuçları ekr
-
+1. `kumanda.py` dosyasını çalıştırın.
+2. Program size bir seçim menüsü sunacak. İstediğiniz işlemi seçmek için ilgili seçenek numarasını girin.
+3. Program seçiminizi işleyecek, sonuçları ekler
